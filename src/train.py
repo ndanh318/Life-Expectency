@@ -12,7 +12,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.impute import SimpleImputer
 from sklearn.model_selection import GridSearchCV, RandomizedSearchCV, KFold
-from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
+from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error, confusion_matrix
 
 
 def regression(reg, params, title):

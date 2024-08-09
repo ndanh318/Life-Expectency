@@ -97,11 +97,9 @@ The models were evaluated using metrics such as Mean Absolute Error (MAE), Mean 
 
 The best-performing model was the **Random Forest Regressor**, with the following metrics:
 
-![Random Forest Regressor]()
-
--   **Mean Absolute Error (MAE):** 0.96
--   **Mean Squared Error (MSE):** 1.10
--   **R-squared (R²):** 2.97
+-   **Mean Absolute Error (MAE):** 1.10
+-   **Mean Squared Error (MSE):** 2.97
+-   **R-squared (R²):** 0.96
 
 These results indicate that the model can effectively predict life expectancy based on the provided features.
 
