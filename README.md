@@ -15,6 +15,8 @@
 
 ## Introduction
 
+This project's main goal is to create a regression model that can estimate life expectancy properly by combining a number of factors, including economic indicators, healthcare costs, immunization rates, and death rates. The model can assist in identifying important elements that determine life expectancy and offer insights into how various situations affect health outcomes worldwide by studying these factors.
+
 ## Dataset
 
 Here is a preview of the life expectancy dataset. The dataset used for this project can be found [here](https://github.com/ndanh318/Life-Expectency/tree/master/data/sources)
