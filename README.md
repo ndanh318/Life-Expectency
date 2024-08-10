@@ -28,6 +28,32 @@ Here is a preview of the life expectancy dataset. The dataset used for this proj
 | Afghanistan                                          | 2012 | Developing | 59.5            | 272             | 69            | 0.01    | 78.1842153             | 67          | 2787    | 17.6 | 93                | 67    | 8.52              | 67         | 0.1      | 669.959     | 3696958     | 17.9                 | 18                 | 0.463                           | 9.8       |
 | Afghanistan                                          | 2011 | Developing | 59.2            | 275             | 71            | 0.01    | 7.097108703            | 68          | 3013    | 17.2 | 97                | 68    | 7.87              | 68         | 0.1      | 63.537231   | 2978599     | 18.2                 | 18.2               | 0.454                           | 9.5       |
 
+-   **Features**:
+    -	`Country`: The name of the country. 
+    - `Year`: The year of the observation. 
+    - `Status`: The development status of the country (Developing or Developed).
+    - `Adult Mortality`: The mortality rate for adults (deaths per 1,000 adults aged 15 and older). 
+    - `infant deaths`: The number of infant deaths per 1,000 live births. 
+    - `Alcohol`: Average alcohol consumption. 
+    - `percentage expenditure`: The percentage of government expenditure on health relative to GDP. 
+    - `Hepatitis B`: The percentage of children who have received the Hepatitis B vaccine. 
+    - `Measles`: The number of reported measles cases. 
+    - `BMI`: The average Body Mass Index of the population. 
+    - `under-five deaths`: The number of deaths of children under the age of five per 1,000 live births. 
+    - `Polio`: The percentage of children who have received the Polio vaccine. 
+    - `Total expenditure`: The total health expenditure as a percentage of GDP. 
+    - `Diphtheria`: The percentage of children who have received the Diphtheria vaccine. 
+    - `HIV/AIDS`: The prevalence of HIV/AIDS as a percentage of the population. 
+    - `GDP`: The Gross Domestic Product in USD. 
+    - `Population`: The total population of the country. 
+    - `thinness 1-19 years`: The prevalence of thinness (underweight) among children aged 1-19 years. 
+    - `thinness 5-9 years`: The prevalence of thinness (underweight) among children aged 5-9 years. 
+    - `Income composition of resources`: A composite index of income. 
+    - `Schooling`: The average number of years of schooling received.
+
+
+-   **Target**:
+    - `Life expectancy`: The average life expectancy in years. 
 
 ## Project Structure
 ```bash
